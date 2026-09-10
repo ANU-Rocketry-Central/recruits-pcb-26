@@ -661,7 +661,7 @@
         "uuid": "8d5387a9-c929-4715-8777-a9143323e015"
       }
     ],
-    "used_designators": "CNRST1,CMCU1,CLDO5V1,CIMU1,CFLASH1,1,CEXTERNAL1,CBOOT1,#PWR1-28",
+    "used_designators": "CNRST1,CMCU1,CLDO5V1,CFLASH1,CIMU1,CEXTERNAL1,1,CBOOT1,#PWR1-28",
     "variants": []
   },
   "sheets": [
